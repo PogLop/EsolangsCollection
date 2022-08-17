@@ -17,5 +17,8 @@ def interpret(code):
             num -= 1
         elif code[pos] == "Y":
             num = mem[0]
+        #debug function
+        elif code[pos] == "!":
+            print(num)
 
         pos += 1
