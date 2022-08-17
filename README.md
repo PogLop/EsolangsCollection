@@ -1,7 +1,7 @@
 # Esolangs Collection
-Collection of small esolangs made by me for fun.
+Collection of small esolangs made by me for fun. Everything is under **MIT license**. Contribution **welcomed**!
 ## Docs
-### BANanY
+#### BANanY
 ```
 B - Stores currrent value into one bit memory
 A - One bit string user input
